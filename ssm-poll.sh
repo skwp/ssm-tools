@@ -3,7 +3,7 @@
 set -e
 
 # Note: make a file called "ssm-script" with your script
-# This script requires execution priveleges on the  AWS-RunShellScript SSM Command
+# This script requires execution privileges on the AWS-RunShellScript SSM Command
 
 PATH_TO_SCRIPT=$1
 
